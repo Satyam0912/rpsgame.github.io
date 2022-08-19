@@ -1,0 +1,16 @@
+.fas {
+    font-size: 4rem;
+    cursor: pointer;
+    font-weight: bolder;
+}
+
+.boards,
+.select {
+    display: none;
+}
+
+
+#playerSide,
+#computerSide {
+    height: 250pxs;
+}
